@@ -1,0 +1,67 @@
+.btn-purple {
+  color: #59127a;
+  background-color: #800080; 
+  border-color: #800080; 
+}
+
+.btn-purple:hover {
+  color: #fff;
+  background-color: #6a007f; 
+  border-color: #6a007f; 
+}
+
+body {
+  font-family: 'Roboto', sans-serif; 
+}
+
+.custom-heading {
+  font-family: 'Helvetica', sans-serif; 
+}
+
+.light-mode {
+  background-color: #fff;
+  color: #eae1e1;
+}
+
+
+.dark-mode {
+  background-color: #101010;
+  color: #fff;
+}
+
+
+.full-height {
+  height: 100vh;
+}
+
+.purple-dashboard {
+  background-color: purple;
+  padding: 20px;
+  color: white; 
+}
+
+.purple-button {
+  background-color: purple;
+  color: white;
+  border-color: purple;
+  text-emphasis-color: black;
+}
+
+.purple-button:hover {
+  background-color: white;
+  border-color: white;
+  text-emphasis-color: black;
+}
+
+.like-button {
+  color:purple !important; 
+}
+
+.button-text {
+  color: inherit; 
+}
+
+
+
+
+
